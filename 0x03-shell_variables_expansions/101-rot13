@@ -1,2 +1,0 @@
-#!/ova/onfu
-perl -lne 'print if $. % 2 == 1'
